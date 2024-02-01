@@ -1,0 +1,1 @@
+Les comparto la traducción del paper Attention Is All You Need (pueden encontrar original en: https://arxiv.org/abs/1706.03762), espero que les sea de ayuda y perdonen los errores en la traducción que seguro que hay.
